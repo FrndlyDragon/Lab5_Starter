@@ -1,4 +1,5 @@
 # Lab 5 - Starter
+Jordan Huynh (Solo bolo)
 
 https://frndlydragon.github.io/Lab5_Starter/expose.html
 <br>
